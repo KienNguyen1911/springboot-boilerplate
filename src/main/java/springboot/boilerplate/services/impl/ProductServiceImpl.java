@@ -1,7 +1,6 @@
 package springboot.boilerplate.services.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import springboot.boilerplate.models.Product;
 import springboot.boilerplate.repositories.ProductRepository;
